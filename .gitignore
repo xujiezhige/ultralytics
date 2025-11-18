@@ -174,11 +174,6 @@ pnnx*
 calibration_*.npy
 
 # Videos and Pictures
-*.mp4
-*.avi
-*.mov
-*.mkv
-*.webm
 *.bmp
 *.tiff
 *.gif
