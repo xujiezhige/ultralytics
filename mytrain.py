@@ -3,8 +3,8 @@
 if __name__ == "__main__":
     model = YOLO(r"yolo11n.pt")
     model.train(
-        data=r"apple_mini.yaml",
-        epochs=100,
+        data=r"D:\GithubProjects\ultralytics\ultralytics\cfg\datasets\apple_mini.yaml",
+        epochs=300,
         imgsz=640,
         batch=-1,
         cache="ram",

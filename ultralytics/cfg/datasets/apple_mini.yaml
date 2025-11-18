@@ -12,7 +12,7 @@
 path: test_dataset # dataset root dir
 train: images/train
 val: images/val
-test: images/test
+test:
 
 
 
