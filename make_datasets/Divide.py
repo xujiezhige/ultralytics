@@ -9,7 +9,7 @@ from pathlib import Path
 #     img1.jpg
 #   labels/
 #     img1.txt
-DATA_ROOT = Path(r"D:\GithubProjects\ultralytics\make_datasets\Temp")
+DATA_ROOT = Path(r"E:\PapeGamesGit\ultralytics\datasets\test_dataset")
 IMG_DIR = DATA_ROOT / "images"
 LABEL_DIR = DATA_ROOT / "labels"
 
